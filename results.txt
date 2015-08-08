@@ -1,21 +1,21 @@
-Alex Bove-184-17,Chris McCurry-6356-23,Richard Shay-4425-29,Ben Carter-5580-26
+Alex Bove-184-17,Chris McCurry-6356-23,Richard J Shay-4425-29,Ben Carter-5580-26
 Andrew Menard-6852-48,Nick Alexandro-5423-50,Lexi Shea-4151-32,Anthony Lainesse-5681-39
 Bill Carrigan-6352-41,Winton Lemoine-1183-23,Karl Buchholz-4193-14,Chris Burnett-6694-22
 Mark Geary-722-36,Nick Page-3864-37,Antony Saccenti-5931-35,Brian Chan-6810-63
 Doug Faust-602-40,Micah McCormick-6811-42,Richard Boyes-6637-38,Rich Fetzer-3699-38
-Thomas Tu-5636-37,Joshua Edwards-5837-35,Nicole Yahase-6702-26,Derek Glenn-5559-36
-Christy Applegate-6843-22,David Burcholz-235-16,Robert Kircher-1074-40,Aaron Feugi-693-35
-Mark Crescenzi-4872-41,Gordon Rodgers-1718-27,Peter Eldridge-4196-33,Dante Saccenti-5930-32
+Thomas Tu-5636-37,Joshua Edwards-5837-35,Nicole Yuhase-6702-26,Derek Glenn-5559-36
+Christy Applegate-6843-22,David Burcholz-235-16,Robert Kircher-1074-40,Aaron Fuegi-693-35
+Mark Crescenzi-4872-41,Gordon Rodgers-1718-27,Peter Eldridge-4196-33,Donte Saccenti-5930-32
 Rob Renaud-4283-40,Nick Kiswanto-4564-32.8,Charles Hickok-904-32.6,Herbert Sparks-6162-26
 Francis de Bellefeuille-5542-28,Tim Tu-6023-34,Jack Jaeger-973-32,Richard M Shay-4153-26
 Dan Boyle-6334-19,Bradford McCandless-4165-22,Eric Raymond-4128-29,Henry Allen-5573-34
 Daniel Hoffman-927-24,John Shaheen-1845-20,Christopher Bert-5656-29,John Riston-6071-32
-Perrianne Lurie-1241-25.5,Keith Dent-6428-25.10,Scott Sacceti-5623-19,John Ratan-6386-22
+Perrianne Lurie-1241-25.05,Keith Dent-6428-25.10,Scott Sacceti-5623-19,John Ratan-6386-22
 David Finberg-620-50,David Platnick-1602-57,Andrew Drummond-6287-42,Emily Blanck-6353-29
 Jason Crognale-5394-30,Kathy Stroh-1990-21,Liz DiSandro Roberts-479-16.0,Peggy Ng-5634-16.1
 
 Antony Saccenti-5931-36,Dan Boyle-6334-31,David Platnick-1602-34,Anna Kiefte-6306-24
-Perrianne Lurie-1241-24.3,Chris Bet-5656-33,Richard M Shay-4153-24.0,Herbert Sparks-6162-23
+Perrianne Lurie-1241-24.3,Christopher Bert-5656-33,Richard M Shay-4153-24.0,Herbert Sparks-6162-23
 Daniel Hoffman-927-38,Jason Crognale-5394-22,Derek Glenn-5559-33,Francis de Bellefeuille-5542-19
 Scott Sacceti-5623-32,Brian Chan-6810-37,John Riston-6071-33
 Ben Carter-5580-28,Craig Trader-3788-31,Micah McCormick-6811-37,Rob Renaud-4283-63
@@ -25,8 +25,33 @@ Emily Blanck-6353-28.05,Joshua Edwards-5837-46,Robert Kircher-1074-28.13,Eric Ra
 Nick Alexandro-5423-20,Thomas Tu-5636-25,Bradford McCandless-4165-26,Aaron Fuegi-693-33
 Alyssa Mills-3718-20,Keith Dent-6428-47,Richard Boyes-6637-37.5,John Shaheen-1845-37.8
 Doug Faust-602-64,Lexi Shea-4151-43,Liz DiSandro Roberts-479-33,Charles Hickok-904-35
-David Finberg-620-37,Rodney Bacigalapo-2600-31,Chris Burnett-6694-25,Richard J Shay-4925-34
+David Finberg-620-37,Rodney Bacigalapo-2600-31,Chris Burnett-6694-25,Richard J Shay-4425-34
 Jack Jaeger-973-23,Peggy Ng-5634-21,Donte Saccenti-5930-20,Henry Allen-5573-20
 Nick Kiswanto-4564-59,David Burcholz-235-23,Andrew Menard-6852-28,Kathy Stroh-1990-39
+Alex Bove-184-57,Stuart Tucker-2081-43,Mark Geary-722-49,Peter Eldridge-4196-25
 
+Micah McCormick-6811-49,Ben Carter-5580-35,Michael Crescenzi-4388-26
+Richard J Shay-4425-25,Michael Powers-5384-46,Perrianne Lurie-1241-26,Antero Kuusi-5234-21
+Eric Brosius-220-44.0,Eric Monte-3500-46,Andrew Menard-6852-44.2,Derek Glenn-5559-40
+Kathy Stroh-1990-33,Aaron Fuegi-693-31,Peggy Ng-5634-22,Nicole Yuhase-6702-21
+Nick Alexandro-5423-52,Rob Renaud-4283-49,Joshua Edwards-5837-34,Jonathan Barry-5212-21
+Jeremy Billones-152-33,Lyman Moquin-1419-40,John Riston-6071-27
+Henry Allen-5573-14,Thomas Tu-5636-28,Nick Kiswanto-4564-39,Bradford McCandless-4165-33
+David Platnick-1602-50,James Crescenzi-5389-39,Doug Faust-602-27,Jason Crognale-5394-52
+Tim Tu-6023-50,Theodore Crescenzi-6541-43,James Gerinomoo-4563-39,Christopher Bert-5656-32
+Matt Naughton-6912-33,Michael Sosa-3652-28,Mikaela Kumlander-5971-22,Chris McCurry-6356-28
+Chris Kizer-5552-39.2,Anthony Bosca-6701-29,Chris Burnett-6694-39.0
+Molly Auerbach-6704-22,Catherine Raymond-4129-33,Richard Boyes-6637-50,Aidan Powers-6059-43
+Winton Lemoine-1183-35,Brandon Bernard-134-29,Sam Packwood-1533-25,Mark Crescenzi-4872-29
 
+John Riston-6071-34,Brandon Bernard-134-38,Josh Edwards-5837-26.7,Mark Crescenzi-4872-26.8
+Richard M Shay-4153-36,Chris Kizer-5552-49,Eric Brosius-220-31,Rob Renaud-4283-39
+Jeremy Billones-152-26,Antero Kuusi-5234-41,Christopher Bert-5656-36,Derek Glenn-5559-2
+Thomas Tu-5636-43,Andrew Menard-6852-41,Richard J Shay-4425-24,David Platnick-1602-29
+Perrianne Lurie-1241-24,Chris McCurry-6356-22,Aidan Powers-6059-33,Micah McCormick-6811-36
+Kathy Stroh-1990-33,Ben Carter-5580-30,Matt Naughton-6912-49,Tim Tu-6023-27
+Nick Alexandro-5423-23,Brian Chan-6810-37,Jonathan Barry-5212-30
+Aaron Fuegi-693-44,Jason Crognale-5394-46,Richard Boyes-6637-57,Mikaela Kumlander-5971-30
+Cally Perry-3875-33,Henry Allen-5573-32,Michael Powers-5384-36
+Catherine Raymond-4129-50,Doug Faust-602-31,Michael Sosa-3652-25,Peggy Ng-5634-3
+Chris Burnett-6694-6694,Michael Crescenzi-4388-53,Lyman Moquin-1419-44
